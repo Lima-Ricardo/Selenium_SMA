@@ -1,0 +1,531 @@
+1664492876060	geckodriver	INFO	Listening on 127.0.0.1:54567
+1664492879123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileEH4QDh"
+1664492879374	Marionette	INFO	Marionette enabled
+1664492879378	Marionette	INFO	Listening on port 54577
+Read port: 54577
+WebDriver BiDi listening on ws://127.0.0.1:54568
+1664492879497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileEH4QDh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54568/devtools/browser/781bcd7d-3b5f-4c0c-b2e7-fd93d2058c40
+1664492914116	Marionette	INFO	Stopped listening on port 54577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664492918117	geckodriver	INFO	Listening on 127.0.0.1:54629
+1664492921156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile5RqksX"
+1664492921415	Marionette	INFO	Marionette enabled
+1664492921419	Marionette	INFO	Listening on port 54640
+Read port: 54640
+WebDriver BiDi listening on ws://127.0.0.1:54630
+1664492921522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile5RqksX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54630/devtools/browser/c1702cdc-8115-4d27-8e22-dac384b4950f
+1664493055692	Marionette	INFO	Stopped listening on port 54640
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofiletk0kPu"
+1664493012663	Marionette	INFO	Marionette enabled
+1664493012666	Marionette	INFO	Listening on port 54712
+WebDriver BiDi listening on ws://127.0.0.1:54703
+Read port: 54712
+1664493012848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofiletk0kPu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54703/devtools/browser/33036ac5-c2f8-4cd0-b1cf-6ec8260d1df7
+1664493057214	Marionette	INFO	Stopped listening on port 54712
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664493338923	geckodriver	INFO	Listening on 127.0.0.1:54818
+1664493341973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofilewkfxVM"
+1664493342224	Marionette	INFO	Marionette enabled
+1664493342228	Marionette	INFO	Listening on port 54828
+Read port: 54828
+WebDriver BiDi listening on ws://127.0.0.1:54819
+1664493342349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofilewkfxVM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54819/devtools/browser/9c4d6c11-2f44-4f2a-b478-4c1614122118
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664493536736	Marionette	INFO	Stopped listening on port 54828
+1664493541491	geckodriver	INFO	Listening on 127.0.0.1:54903
+1664493544523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileGCQBZb"
+1664493544808	Marionette	INFO	Marionette enabled
+1664493544813	Marionette	INFO	Listening on port 54914
+Read port: 54914
+WebDriver BiDi listening on ws://127.0.0.1:54904
+1664493544920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileGCQBZb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54904/devtools/browser/c3763e9a-76fd-4155-9707-449d92554df2
+1664493592249	Marionette	INFO	Stopped listening on port 54914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664493724984	geckodriver	INFO	Listening on 127.0.0.1:54984
+1664493728036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofiled8jKuw"
+1664493728285	Marionette	INFO	Marionette enabled
+1664493728288	Marionette	INFO	Listening on port 54994
+WebDriver BiDi listening on ws://127.0.0.1:54985
+Read port: 54994
+1664493728465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofiled8jKuw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54985/devtools/browser/f1e22bdc-4c45-4497-a326-48be2184e4a2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664493981267	Marionette	INFO	Stopped listening on port 54994
+1664493988559	geckodriver	INFO	Listening on 127.0.0.1:55080
+1664493991591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile1TLiYh"
+1664493991841	Marionette	INFO	Marionette enabled
+1664493991845	Marionette	INFO	Listening on port 55091
+Read port: 55091
+WebDriver BiDi listening on ws://127.0.0.1:55081
+1664493991967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile1TLiYh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55081/devtools/browser/e779c8cc-f00e-4ea1-98c3-40bfdf448d4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664494085494	Marionette	INFO	Stopped listening on port 55091
+1664494100889	geckodriver	INFO	Listening on 127.0.0.1:55186
+1664494103952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileIGycdT"
+1664494104196	Marionette	INFO	Marionette enabled
+1664494104200	Marionette	INFO	Listening on port 55197
+Read port: 55197
+WebDriver BiDi listening on ws://127.0.0.1:55187
+1664494104324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileIGycdT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55187/devtools/browser/4e5592e0-c2e0-476a-97e2-fa191d01f6a4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.warn: ({})
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664494341973	Marionette	INFO	Stopped listening on port 55197
+1664494348475	geckodriver	INFO	Listening on 127.0.0.1:55311
+1664494351520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileu1froi"
+1664494351766	Marionette	INFO	Marionette enabled
+1664494351770	Marionette	INFO	Listening on port 55321
+WebDriver BiDi listening on ws://127.0.0.1:55312
+Read port: 55321
+1664494351957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileu1froi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55312/devtools/browser/f0186b2c-1415-4f23-b908-50b05611de83
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+1664494424522	Marionette	INFO	Stopped listening on port 55321664494425659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile5Qgena"
+1664494425901	Marionette	INFO	Marionette enabled
+1664494425904	Marionette	INFO	Listening on port 55394
+WebDriver BiDi listening on ws://127.0.0.1:55381
+Read port: 55394
+1664494426086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile5Qgena\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55381/devtools/browser/8e873207-7873-4f4e-8352-6824a7bf47fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664494491899	Marionette	INFO	Stopped listening on port 55394
+1664494498352	geckodriver	INFO	Listening on 127.0.0.1:55453
+1664494501403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileO31Egx"
+1664494501660	Marionette	INFO	Marionette enabled
+1664494501663	Marionette	INFO	Listening on port 55463
+Read port: 55463
+WebDriver BiDi listening on ws://127.0.0.1:55454
+1664494501770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileO31Egx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55454/devtools/browser/980b31b3-eeee-423b-acbc-0c0363e5282d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664494980454	Marionette	INFO	Stopped listening on port 55463
+1664494986253	geckodriver	INFO	Listening on 127.0.0.1:55711
+1664494989301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileCzeQyH"
+1664494989554	Marionette	INFO	Marionette enabled
+1664494989558	Marionette	INFO	Listening on port 55721
+Read port: 55721
+WebDriver BiDi listening on ws://127.0.0.1:55712
+1664494989684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileCzeQyH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55712/devtools/browser/84ac6988-2c6e-461c-aa71-f727748d3c3a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664495105682	Marionette	INFO	Stopped listening on port 55721
+1664495108757	geckodriver	INFO	Listening on 127.0.0.1:55811
+1664495111825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileLK15aR"
+1664495112073	Marionette	INFO	Marionette enabled
+1664495112077	Marionette	INFO	Listening on port 55822
+Read port: 55822
+WebDriver BiDi listening on ws://127.0.0.1:55812
+1664495112195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileLK15aR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55812/devtools/browser/d7004763-59cc-45f1-a955-f717b7e11994
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967319"
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967320"
+console.error: "Unable to find target with innerWindowId:4294967320"
+console.error: "Unable to find target with innerWindowId:4294967320"
+console.error: "Unable to find target with innerWindowId:4294967320"
+console.error: "Unable to find target with innerWindowId:4294967320"
+console.error: "Unable to find target with innerWindowId:4294967321"
+console.error: "Unable to find target with innerWindowId:4294967321"
+console.error: "Unable to find target with innerWindowId:4294967321"
+console.error: "Unable to find target with innerWindowId:4294967321"
+console.error: "Unable to find target with innerWindowId:4294967322"
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967322"
+console.error: "Unable to find target with innerWindowId:4294967322"
+console.error: "Unable to find target with innerWindowId:4294967322"
+console.error: "Unable to find target with innerWindowId:4294967322"
+console.error: "Unable to find target with innerWindowId:4294967323"
+console.error: "Unable to find target with innerWindowId:4294967323"
+console.error: "Unable to find target with innerWindowId:4294967323"
+console.error: "Unable to find target with innerWindowId:4294967323"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664495644784	Marionette	INFO	Stopped listening on port 55822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664495651981	geckodriver	INFO	Listening on 127.0.0.1:56041
+1664495655038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileepeYrP"
+1664495655283	Marionette	INFO	Marionette enabled
+1664495655287	Marionette	INFO	Listening on port 56052
+WebDriver BiDi listening on ws://127.0.0.1:56042
+Read port: 56052
+1664495655467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileepeYrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56042/devtools/browser/6437213b-1706-4a6e-b112-4f461fa1b127
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664496341144	Marionette	INFO	Stopped listening on port 56052
+1664496345180	geckodriver	INFO	Listening on 127.0.0.1:56249
+1664496348242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileTCmbSC"
+1664496348489	Marionette	INFO	Marionette enabled
+1664496348492	Marionette	INFO	Listening on port 56260
+WebDriver BiDi listening on ws://127.0.0.1:56250
+Read port: 56260
+1664496348675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileTCmbSC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56250/devtools/browser/46f97d27-cbab-463b-99ab-60b4ecb9e1bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664496579214	Marionette	INFO	Stopped listening on port 56260
+1664496582766	geckodriver	INFO	Listening on 127.0.0.1:56396
+1664496585830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofilehPYLiJ"
+1664496586078	Marionette	INFO	Marionette enabled
+1664496586083	Marionette	INFO	Listening on port 56407
+Read port: 56407
+WebDriver BiDi listening on ws://127.0.0.1:56397
+1664496586209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofilehPYLiJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56397/devtools/browser/0f4735cb-abf5-43a0-9288-92cdb3dc4a0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664496753949	Marionette	INFO	Stopped listening on port 56407
+1664496796649	geckodriver	INFO	Listening on 127.0.0.1:56513
+1664496799714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile3ZkJfY"
+1664496799960	Marionette	INFO	Marionette enabled
+1664496799964	Marionette	INFO	Listening on port 56523
+WebDriver BiDi listening on ws://127.0.0.1:56514
+Read port: 56523
+1664496800087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofile3ZkJfY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56514/devtools/browser/379b0443-8d69-47ec-8570-81e9c6ce04f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664496924787	Marionette	INFO	Stopped listening on port 56523
+1664497142574	geckodriver	INFO	Listening on 127.0.0.1:56658
+1664497145633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileOaYKws"
+1664497145902	Marionette	INFO	Marionette enabled
+1664497145906	Marionette	INFO	Listening on port 56669
+Read port: 56669
+WebDriver BiDi listening on ws://127.0.0.1:56659
+1664497146015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RILIM_~1\\AppData\\Local\\Temp\\rust_mozprofileOaYKws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56659/devtools/browser/81d81670-a2b2-4507-9ccf-f7166a8004d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin.byinti.com."
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+JavaScript warning: https://admin.byinti.com/tickets/index, line 1468: unreachable code after return statement
+1664497207521	Marionette	INFO	Stopped listening on port 56669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
